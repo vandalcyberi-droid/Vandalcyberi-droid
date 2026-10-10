@@ -44,5 +44,5 @@
 </p>
 
 <p align="center">
-  <code>THINK DEEPLY. TEST RESPONSIBLY. BUILD SECURELY.</code>
+  <code>Remember , the most important thing is to stay hidden</code>
 </p>
