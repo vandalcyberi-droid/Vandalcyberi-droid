@@ -18,12 +18,6 @@
   Hello , I’m Mohammad Sadra ; I’m 17 years old and a gray-hat hacker .
 </p>
 
-<h2 align="center">TECH STACK</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,php,linux,bash,git,github&theme=dark">
-</p>
-
 <h2 align="center">SECURITY INTERESTS</h2>
 
 <p align="center">
