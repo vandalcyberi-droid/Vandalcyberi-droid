@@ -1,5 +1,5 @@
 
-<h1 align="center">VANDAL CYBERI</h1>
+<h1 align="center">Mohammad Sadra</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00FF99&center=true&vCenter=true&width=650&lines=SECURITY+RESEARCHER;PENETRATION+TESTING;BUG+BOUNTY;EXPLOIT+RESEARCH" alt="Animated title">
