@@ -1,86 +1,60 @@
 
-<div align="center">
+<h1 align="center">VANDAL CYBERI</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=700&color=00FF99&center=true&vCenter=true&width=700&lines=VANDAL+CYBERI;PENETRATION+TESTING;BUG+B​​OUNTY+%7C+EXPLOIT+RESEARCH;CODE.+HACK.+INNOVATE." alt="Vandal Cyberi" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=650&lines=SECURITY+RESEARCHER;PENETRATION+TESTING;BUG+BOUNTY+%2F+EXPLOIT+RESEARCH;BUILDING+SECURE+SYSTEMS" alt="Typing SVG">
+</p>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF99?style=for-the-badge&logo=github&logoColor=black" />
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-111111?style=for-the-badge" />
-
-<br><br>
-
-<a href="https://t.me/paryshoni">
-  <img src="https://img.shields.io/badge/TELEGRAM-@paryshoni-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00ff99?style=for-the-badge&labelColor=080808">
+  <img src="https://img.shields.io/badge/ENVIRONMENT-LINUX-00ff99?style=for-the-badge&labelColor=080808">
+</p>
 
 ---
 
-## `> ABOUT ME`
+<h2 align="center">ABOUT</h2>
 
-```python
-class VandalCyberi:
-    def __init__(self):
-        self.role = "Security Researcher"
-        self.focus = [
-            "Penetration Testing",
-            "Bug Bounty",
-            "Exploit Research",
-            "Web Security"
-        ]
-        self.languages = [
-            "Python", "Java", "HTML",
-            "PHP", "JavaScript"
-        ]
-        self.environment = ["Linux", "Termux"]
+<p align="center">
+  Security Researcher focused on web security, vulnerability discovery,<br>
+  penetration testing and responsible security research.
+</p>
 
-    def mission(self):
-        return "Find vulnerabilities. Build secure systems."
+<h2 align="center">AREAS OF INTEREST</h2>
 
-me = VandalCyberi()
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Penetration_Testing-111111?style=flat-square&logo=kalilinux&logoColor=00ff99">
+  <img src="https://img.shields.io/badge/Bug_Bounty-111111?style=flat-square&logo=hackerone&logoColor=00ff99">
+  <img src="https://img.shields.io/badge/Exploit_Research-111111?style=flat-square&logo=hackthebox&logoColor=00ff99">
+  <img src="https://img.shields.io/badge/Web_Security-111111?style=flat-square&logo=owasp&logoColor=00ff99">
+  <img src="https://img.shields.io/badge/Vulnerability_Analysis-111111?style=flat-square&logo=dependabot&logoColor=00ff99">
+</p>
 
-## `> EXPERTISE`
+<h2 align="center">TECH STACK</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,php,linux,bash,git,github&theme=dark">
+</p>
 
-<img src="https://img.shields.io/badge/Penetration_Testing-8A2BE2?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Bug_Bounty-00A86B?style=for-the-badge&logo=hackerone&logoColor=white" />
-<img src="https://img.shields.io/badge/Exploit_Research-FF4444?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/Web_Security-00D9FF?style=for-the-badge" />
+<h2 align="center">OPERATING ENVIRONMENT</h2>
 
-</div>
+<p align="center">
+  Linux / Termux / Git
+</p>
 
-## `> TECH STACK`
+<h2 align="center">CONTACT</h2>
 
-<div align="center">
+<p align="center">
+  <a href="https://t.me/paryshoni">
+    <img src="https://img.shields.io/badge/TELEGRAM-@paryshoni-111111?style=for-the-badge&logo=telegram&logoColor=00ff99">
+  </a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,php,linux,bash,git,github" />
-
-</div>
-
-## `> CONNECT WITH ME`
-
-<div align="center">
-
-<a href="https://t.me/paryshoni">
-  <img src="https://img.shields.io/badge/Message_Me_on_Telegram-@paryshoni-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
-<br><br>
-
-**Telegram:** [@paryshoni](https://t.me/paryshoni)
-
-</div>
+<p align="center">
+  <a href="https://t.me/paryshoni">https://t.me/paryshoni</a>
+</p>
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Vandalcyberi-droid&style=for-the-badge&color=00ff99&label=PROFILE+VIEWS" />
-
-<br>
-
-`「 Think like an attacker. Build like a defender. 」`
-
-</div>
+<p align="center">
+  <code>THINK DEEPLY. TEST RESPONSIBLY. BUILD SECURELY.</code>
+</p>
