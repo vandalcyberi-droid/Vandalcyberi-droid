@@ -15,8 +15,7 @@
 <h2 align="center">ABOUT ME</h2>
 
 <p align="center">
-  Security Researcher focused on penetration testing,<br>
-  bug bounty, exploit research and web security.
+  Hello , I’m Sadra Dehghan ; I’m 17 years old and a gray-hat hacker .
 </p>
 
 <h2 align="center">TECH STACK</h2>
