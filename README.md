@@ -15,7 +15,7 @@
 <h2 align="center">ABOUT ME</h2>
 
 <p align="center">
-  Hello , I’m Sadra Dehghan ; I’m 17 years old and a gray-hat hacker .
+  Hello , I’m Mohammad Sadra ; I’m 17 years old and a gray-hat hacker .
 </p>
 
 <h2 align="center">TECH STACK</h2>
